@@ -7,7 +7,7 @@ public class 확인문제9정답 {
 		Scanner scanner = new Scanner(System.in);
 
 		System.out.println("첫번째 수 = ");
-		double firstData = Double.parseDouble(scanner.nextLine());
+		double firstData = Double.parseDouble(scanner.nextLine());//문자열이 숫자로 바뀌는거
 
 		System.out.println("첫번째 수 = ");
 		double SecondData = Double.parseDouble(scanner.nextLine());
